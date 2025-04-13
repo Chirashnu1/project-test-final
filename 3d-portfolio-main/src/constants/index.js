@@ -149,7 +149,7 @@ const expCards = [
   {
     review: "FlameEd is a Reddit-inspired platform enabling users to post, comment, vote, and engage in topic-based discussions seamlessly. It features user authentication",
     
-    logoPath: "/images/logo1.png",
+    
     title: "Full Stack Developer",
     date: "January 2023 - Present",
     responsibilities: [
@@ -161,7 +161,7 @@ const expCards = [
   {
     review: "At CSIR-CMERI, I contributed to the development of a real-time hand tracking system aimed at aiding medical rehabilitation.",
     
-    logoPath: "/images/logo2.png",
+    
     title: "Python Developer",
     date: "March 2025 - April 2025",
     responsibilities: [
